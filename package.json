@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "prettier": "2.2.1",
+    "prettier": "2.8.8",
     "redux-testkit": "^1.0.6"
   }
 }
